@@ -1,0 +1,1 @@
+print('Hello from kwartyl.pl, Data Science blog!')
